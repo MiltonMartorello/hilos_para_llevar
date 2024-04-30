@@ -1,0 +1,13 @@
+[INFO] 02:57:10:310 LOG/(5782:5782): Hola soy un logger
+[INFO] 02:57:10:310 LOG/(5782:5787): Hola desde adentro del hilo
+[INFO] 02:57:10:310 LOG/(5782:5787): Se creo el cliente 0
+[INFO] 02:57:10:310 LOG/(5782:5787): Se creo el cliente 1
+[INFO] 03:14:50:570 LOG/(9039:9039): Hola soy un logger
+[INFO] 03:14:50:571 LOG/(9039:9044): Hola desde adentro del hilo
+[INFO] 03:14:50:571 LOG/(9039:9044): Se creo el cliente 0
+[INFO] 03:14:50:571 LOG/(9039:9044): Se creo el cliente 1
+[INFO] 03:16:46:056 LOG/(9261:9261): Hola soy un logger
+[INFO] 03:16:46:057 LOG/(9261:9267): iniciado hilo comedor...
+[INFO] 03:16:46:059 LOG/(9261:9266): iniciado hilo recepción...
+[INFO] 03:16:46:059 LOG/(9261:9266): Se creo el cliente 0
+[INFO] 03:16:46:059 LOG/(9261:9266): Se creo el cliente 1

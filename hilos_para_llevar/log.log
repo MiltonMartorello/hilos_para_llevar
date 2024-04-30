@@ -1,0 +1,7 @@
+[INFO] 02:17:39:733 LOG/(3756:3756): Hola soy un logger
+[INFO] 02:25:36:932 LOG/(2035:2035): Hola soy un logger
+[INFO] 02:26:08:278 LOG/(2148:2148): Hola soy un logger
+[INFO] 02:26:08:278 LOG/(2148:2153): Hola desde adentro del hilo
+[INFO] 02:35:50:205 LOG/(3235:3235): Hola soy un logger
+[INFO] 02:35:50:205 LOG/(3235:3240): Hola desde adentro del hilo
+[INFO] 02:36:20:378 LOG/(3319:3319): Hola soy un logger

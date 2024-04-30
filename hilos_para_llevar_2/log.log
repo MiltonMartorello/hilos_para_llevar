@@ -1,0 +1,19 @@
+[INFO] 02:46:36:014 LOG/(4879:4879): Hola soy un logger
+[INFO] 02:46:36:015 LOG/(4879:4884): Hola desde adentro del hilo
+[INFO] 02:46:36:015 LOG/(4879:4884): Se creo el cliente 0
+[INFO] 02:46:58:615 LOG/(5058:5058): Hola soy un logger
+[INFO] 02:46:58:616 LOG/(5058:5063): Hola desde adentro del hilo
+[INFO] 02:46:58:616 LOG/(5058:5063): Se creo el cliente 0
+[INFO] 02:46:58:616 LOG/(5058:5063): Se creo el cliente 1
+[INFO] 02:49:40:382 LOG/(5391:5391): Hola soy un logger
+[INFO] 02:49:40:382 LOG/(5391:5396): Hola desde adentro del hilo
+[INFO] 02:49:40:382 LOG/(5391:5396): Se creo el cliente 0
+[INFO] 02:49:40:382 LOG/(5391:5396): Se creo el cliente 1
+[INFO] 02:49:54:216 LOG/(5464:5464): Hola soy un logger
+[INFO] 02:49:54:217 LOG/(5464:5469): Hola desde adentro del hilo
+[INFO] 02:49:54:217 LOG/(5464:5469): Se creo el cliente 0
+[INFO] 02:49:54:217 LOG/(5464:5469): Se creo el cliente 1
+[DEBUG] 02:49:54:217 LOG/(5464:5469): Eliminando cliente 0
+[DEBUG] 02:49:54:217 LOG/(5464:5469): Cliente Cliente
+[DEBUG] 02:49:54:217 LOG/(5464:5469): Eliminando cliente 1
+[DEBUG] 02:49:54:217 LOG/(5464:5469): Cliente Cliente
