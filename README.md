@@ -28,4 +28,5 @@ La idea es que el estudiante tenga herramientas para pasar de la hoja en blanco 
 ### Hilos_para_llevar_5 (TO-DO 🔴)
  - Comunicación entre hilos - Concepto de Paralelismo (Como darme cuenta cuando es un hilo y cuando una función)
  - Manejo de Semáforos - Concepto de Ordenamiento y recursos compartidos
+ - Manejo de Contadores - Grado de "Multicomensales"
  - Manejo de Mutex - Concepto de Región crítica
